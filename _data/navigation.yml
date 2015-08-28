@@ -1,0 +1,20 @@
+# Site navigation links
+- title: Nicolaje
+  url: "/"
+  side: left
+
+- title: Where I Write
+  url: "/blog/"
+  side: left
+
+- title: Howtos & Tutorials
+  url: "/howtos/"
+  side: left
+
+- title: Projects
+  url: "/projects/"
+  side: left
+
+- title: About & Contact me
+  url: "/about/"
+  side: left
