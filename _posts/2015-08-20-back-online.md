@@ -2,7 +2,6 @@
 layout: page-fullwidth
 subheadline: Back
 title: "Back online"
-teaser: ""
 teaser: "Today I am bringing my blog back."
 breadcrumb: false
 header: no
