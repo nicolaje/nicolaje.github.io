@@ -1,20 +1,8 @@
 title: "Nicolaje"
+slogan: "My plot of cyberspace"
+description: "This website is where I <a href=\"https://en.wikipedia.org/wiki/Rubber_duck_debugging\">rubber duck</a>, write about my projects and some stuff. See <a href=\"http://www.jeremy-nicola.com\">www.jeremy-nicola.com</a> for my research activities."
 
-# The slogan describes your website and is used on homepage in <title> and other important places
-slogan: ""
-
-
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "My plot of cyberspace."
-
-# Main author of the website
-# See > authors.yml
 author: nicolaje
-
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-#url: 'http://nicola.je'
-#baseurl: ''
 url: 'http://nicola.je'
 baseurl: ''
 
@@ -36,14 +24,12 @@ logo: "logo.png"
 
 
 # Paginates all X entries
-paginate: 5
+paginate: 10
 
 
 # Pagination path › Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
-
-# Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: pygments
@@ -62,7 +48,6 @@ exclude:
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
 
-
 # Used › default.html front-matter and comress.html
 # Options › http://jch.penibelst.de
 compress_html:
@@ -73,14 +58,6 @@ compress_html:
   ignore:
     envs: [development]
 
-
-#
-#       ____       ____            ____
-#      / __ \___  / __/___ ___  __/ / /_
-#     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_
-#   /_____/\___/_/  \__,_/\__,_/_/\__/
-#
 # Default Settings
 
 defaults:
@@ -92,7 +69,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: nicolaje     # Default author for pages
   -
     scope:
       path: ""
@@ -100,8 +77,8 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: phlow     # Default author for posts
+      comments: true
+      author: nicolaje     # Default author for posts
 
 
 
@@ -123,9 +100,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             "https://plus.google.com/u/0/118311555303973066167"
-google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
-bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
+google_author:             "https://plus.google.com/u/0/111325681164277219920"
+#google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+#bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
 
@@ -157,11 +134,11 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+#og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+og_title:                           "Nicolaje - My plot of cyberspace"
+og_description:                     "This website is where I <a href=\"https://en.wikipedia.org/wiki/Rubber_duck_debugging\">rubber duck</a>, write about my projects and some stuff. See <a href=\"http://www.jeremy-nicola.com\">www.jeremy-nicola.com</a> for my research activities."
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -185,7 +162,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -209,7 +186,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+#google_analytics_tracking_id: UA-60112281-1
 
 
 
