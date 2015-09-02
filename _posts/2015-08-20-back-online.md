@@ -7,6 +7,7 @@ breadcrumb: false
 header: no
 categories: Blog
 modified: 2015-08-20
+permalink: /:year/:month/:day/:title
 tags:
  - Blog
 ---

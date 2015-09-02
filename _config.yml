@@ -162,7 +162,7 @@ og_description:                     "This website is where I <a href=\"https://e
 #
 # used in _includes/comments
 
-#disqus_shortname: feelingresponsive
+disqus_shortname: jeremy-nicola
 
 
 #      _____
