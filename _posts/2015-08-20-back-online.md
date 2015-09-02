@@ -28,3 +28,5 @@ Wordpress is really great, but I always felt like it was too much for my needs. 
 As a bonus, I am starting a [Github streak challenge](https://ryanseys.com/blog/177-days-of-github/) with a friend of mine, so it should add some motivation to keep this blog up to date.
 
 I will start by moving the old posts to this blog, and then gradually start to post new things.
+
+Jeremy
