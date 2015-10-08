@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Back
+subheadline: ""Back""
 title: "ROS Fuerte Raspbian image"
 teaser: "I made a pre-built ROS Fuerte SD card image for the Raspberry Pi"
 breadcrumb: false
