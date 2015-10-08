@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Back
+subheadline: ""
 title: "Band-stop filters on apple iPhones"
 teaser: "Weird iPhone 4 spectrogram"
 breadcrumb: false
@@ -15,7 +15,7 @@ While I was working on my [Android-tachometer project](http://nicola.je/projects
 
 Look at the following plot:
 
-<a href="http://nicola.je/images/2CVSpectrogram-524x303.png"><img data-caption="" src="nicola.je/images/2CVSpectrogram-300x173.png"></a>
+<a href="http://nicola.je/images/2CVSpectrogram-524x303.png"><img data-caption="" src="http://nicola.je/images/2CVSpectrogram-300x173.png"></a>
 
 Spectrogram of a Citroën 2CV engine recorded with an Apple iPhone
 

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Back
+subheadline: ""
 title: "JavaCV on a Raspberry Pi"
 teaser: "Precompiled binaries & jar file for using JavaCV (OpenCV in Java) on the Rapsberry Pi"
 breadcrumb: false
