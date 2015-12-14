@@ -1,4 +1,19 @@
 .DS_Store
 .sass-cache/
-_site
 _drafts
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+_site/
+*.swp
+pkg/
+test/
+_deploy/*
+Rakefile
+.jekyll-metadata
