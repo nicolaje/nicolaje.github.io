@@ -7,10 +7,6 @@ modified: 2015-06-02
 tags: [ 'python', 'teaching', 'robotics' ]
 ---
 
-### Table of Contents
-*  Auto generated table of contents
-{:toc}
-
 ## The problem
 
 When teaching a subject, we want to go to the point with the minimum friction. And often, when what we want to teach is related to programming (be it a library, a simulation framework, simple application of a mathematics class...), frictions are everywhere. EVERYWHERE.
