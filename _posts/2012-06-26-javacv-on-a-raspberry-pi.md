@@ -1,14 +1,10 @@
 ---
-layout: page-fullwidth
-subheadline: ""
-title: "JavaCV on a Raspberry Pi"
-teaser: "Precompiled binaries & jar file for using JavaCV (OpenCV in Java) on the Rapsberry Pi"
-breadcrumb: false
-header: no
-categories: Blog
+layout: post
+section-type: post
+title: JavaCV on a Raspberry Pi
+category: Blog
 modified: 2015-08-20
-tags:
- - Blog
+tags: [ 'blog']
 ---
 
 ** TODO

@@ -1,27 +1,24 @@
 ---
-layout: page-fullwidth
-subheadline: ""
+layout: post
+section-type: post
 title: "Band-stop filters on apple iPhones"
 teaser: "Weird iPhone 4 spectrogram"
-breadcrumb: false
-header: no
-categories: Blog
+category: Blog
 modified: 2013-04-10
-tags:
- - Programming
- - Signal processing
+tags: [ 'Programming', 'signal processing' ]
 ---
+
 While I was working on my [Android-tachometer project](http://nicola.je/projects/android-tachometer), I came across very strange results regarding the frequency response on Apple iPhones microphones.
 
 Look at the following plot:
 
-<a href="http://nicola.je/images/2CVSpectrogram-524x303.png"><img data-caption="" src="http://nicola.je/images/2CVSpectrogram-300x173.png"></a>
+<a href="http://nicola.je/img/2CVSpectrogram-524x303.png"><img data-caption="" src="http://nicola.je/img/2CVSpectrogram-300x173.png"></a>
 
 Spectrogram of a Citroën 2CV engine recorded with an Apple iPhone
 
 It represents the [spectrogram](http://en.wikipedia.org/wiki/Spectrogram) of a [Citroën 2CV](http://fr.wikipedia.org/wiki/Citroën_2CV) engine audio recording. You can clearly see the vertical blue band located at 17KHz and the large vertical blue band starting at 19KHz until the end of the spectrum. It means that at these locations, the recorded signal has very few energy. But this is weird and unexpected, so I performed the same tests with a Samsung Galaxy SII and a laptop microphone (click to enlarge):
 
-<a href="http://nicola.je/images/Renault4LSpectrogram-300x171.png"><img data-caption="" src="http://nicola.je/images/Renault4LSpectrogram-300x171.png"></a>
+<a href="http://nicola.je/img/Renault4LSpectrogram-300x171.png"><img data-caption="" src="http://nicola.je/img/Renault4LSpectrogram-300x171.png"></a>
 
 Spectrogram of a Renault 4L engine using an Apple iPhone, a Samsung Galaxy SII and a laptop.
 

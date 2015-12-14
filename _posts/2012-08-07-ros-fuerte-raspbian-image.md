@@ -1,14 +1,9 @@
 ---
-layout: page-fullwidth
-subheadline: "ROS Fuerte Raspbian image"
-title: "ROS Fuerte Raspbian image"
-teaser: "I made a pre-built ROS Fuerte SD card image for the Raspberry Pi"
-breadcrumb: false
-header: no
-categories: Blog
+layout: post
+section-type: post
+title: ROS Fuerte Raspbian image
+category: Blog
 modified: 2013-03-17
-tags:
- - Robotics
- - Raspberry Pi
+tags: [ 'Robotics', 'raspberry pi' ]
 ---
 **TODO

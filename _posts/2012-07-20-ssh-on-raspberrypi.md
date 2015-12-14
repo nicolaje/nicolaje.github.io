@@ -1,15 +1,10 @@
 ---
-layout: page-fullwidth
-subheadline: ""
-title: "SSH on Raspberry Pi"
-teaser: "Fixing SSH access problem on the Raspberry Pi"
-breadcrumb: false
-header: no
-categories: Blog
+layout: post
+section-type: post
+title: SSH on Raspberry Pi
+category: Blog
 modified: 2013-03-17
-tags:
- - Robotics
- - Raspberry Pi
+tags: [ 'robotics', 'raspberry pi']
 ---
 
 **TODO**

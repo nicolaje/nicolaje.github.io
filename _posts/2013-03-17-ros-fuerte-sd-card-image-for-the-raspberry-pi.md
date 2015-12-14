@@ -1,15 +1,10 @@
 ---
-layout: page-fullwidth
-subheadline: ""
+layout: post
+section-type: post
 title: "ROS Fuerte SD Card image for the Raspberry Pi"
-teaser: "No more Raspberry Pi pre-built ROS SD card images for a while"
-breadcrumb: false
-header: no
-categories: Blog
+category: Blog
 modified: 2013-03-17
-tags:
- - Robotics
- - Raspberry Pi
+tags: [ 'robotics', 'raspberry pi']
 ---
 **Edit 10 april 2013:** As Paul let us know in the comments, it is now possible to install ROS Groovy from binary packages on Raspbian following the instructions in on the [ROS website](http://www.ros.org/wiki/groovy/Installation/Raspbian) ! Finally, there is no more need for pre-installed SD Card images =)
 {: .notice-info}

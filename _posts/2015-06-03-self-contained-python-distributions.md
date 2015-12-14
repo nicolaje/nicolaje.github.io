@@ -1,16 +1,10 @@
 ---
-layout: page-fullwidth
-subheadline: Python in a box
+layout: post
+section-type: post
 title: "Self contained Python distributions"
-teaser: "Using and distributing python without installing it"
-breadcrumb: false
-header: no
-categories: blog
+category: Blog
 modified: 2015-06-02
-tags:
- - Python
- - Teaching
- - Robotics
+tags: [ 'python', 'teaching', 'robotics' ]
 ---
 
 ### Table of Contents
