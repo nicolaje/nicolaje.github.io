@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Back
+subheadline: ""
 title: "ROS Fuerte SD Card image for the Raspberry Pi"
 teaser: "No more Raspberry Pi pre-built ROS SD card images for a while"
 breadcrumb: false

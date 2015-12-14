@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Back
+subheadline: ""
 title: "SSH on Raspberry Pi"
 teaser: "Fixing SSH access problem on the Raspberry Pi"
 breadcrumb: false
