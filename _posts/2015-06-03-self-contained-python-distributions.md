@@ -11,15 +11,15 @@ tags: [ 'python', 'teaching', 'robotics' ]
 
 When teaching a subject, we want to go to the point with the minimum friction. And often, when what we want to teach is related to programming (be it a library, a simulation framework, simple application of a mathematics class...), frictions are everywhere. EVERYWHERE.
 
-"Oh, you are using Windows? But that library only works on UNIX systems!"
+> "Oh, you are using Windows? But that library only works on UNIX systems!"
 
-"An Ubuntu virtual machine? Smart. But that's not going to work for that 3D heavy simulator."
+> "An Ubuntu virtual machine? Smart. But that's not going to work for that 3D heavy simulator."
 
-"You can't use the dll I precompiled for you? Well, you are using Visual Studio, and I compiled them with MinGW..."
+> "You can't use the dll I precompiled for you? Well, you are using Visual Studio, and I compiled them with MinGW..."
 
-"No, that only works with version X of \<insert one or several dependencies here\>. Please upgrade your Ubuntu 8.04 to 15.04, break your system, cry and then update the aforementioned packages!"
+> "No, that only works with version X of \<insert one or several dependencies here\>. Please upgrade your Ubuntu 8.04 to 15.04, break your system, cry and then update the aforementioned packages!"
 
-"You need Python to be able to run the configure script (I am looking at you, [waf](https://waf.io)). Then you must install MingGW to compile the library, do some Voodoo on a full-moon night all wrapped in bacon and you can finally try to compile the HelloWorld I provide. Oh, by the way, you needed Python 2.X, not 3.X. Re-install, update your PATH variable and try again."
+> "You need Python to be able to run the configure script (I am looking at you, [waf](https://waf.io)). Then you must install MingGW to compile the library, do some Voodoo on a full-moon night all wrapped in bacon and you can finally try to compile the HelloWorld I provide. Oh, by the way, you needed Python 2.X, not 3.X. Re-install, update your PATH variable and try again."
 
 You got the point. So unless your have complete control over a bunch of computers in the room where the presentation happens (which you don't if you present at a University), hours to spend, and you manage to install everything for them, there is almost no way out of this situation. You will have to fix a lot of user-specific issues, no matter how hard you prepared your teaching material, on a per-user basis.
 
