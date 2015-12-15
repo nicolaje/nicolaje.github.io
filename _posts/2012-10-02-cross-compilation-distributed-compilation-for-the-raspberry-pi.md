@@ -248,7 +248,7 @@ Do these steps for each PC you want to use as a remote cross-compiler (called a 
 ### LET'S TEST IT !
 Let's test our distcc setup by building [OpenCV](http://www.opencv.org/) !
 
-![Cross Compiling OpenCV](http://{{site.url}}/img/OpenCVCompilation.png)
+![Cross Compiling OpenCV](http://nicola.je/img/OpenCVCompilation.png)
 This is what you want to see when using distributed cross-compilation: all your PC's processors working 100% while your Raspberry Pi stays calm.
 
 After you launched the distccd daemon on each of your remote PC's ( not on the Raspberry Pi unless you want it to build OpenCV too ), issue the following commands from your Pi:
