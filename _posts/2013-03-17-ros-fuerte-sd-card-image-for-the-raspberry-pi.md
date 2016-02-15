@@ -23,7 +23,7 @@ It may not seem like big numbers, but it is far more than what I expected. For m
 
 Let's hope we will have pre-built Debian packages to install ROS on the Pi some days...
 
-Anyway, by then if you want to build your own SD Card image, it is easier now as there are detailed instructions on the ROS Wiki to build ROS Groovy on Raspbian ! Using my tutorial on distributed cross-compilation for the Raspberry Pi, it should be a piece of cake to build your own image! ;). But still, if you have troubles to build it, of course feel free to ask questions in the comments (not via the contact interface please, so that everyone can benefit  from your problem and its solution)!
+Anyway, by then if you want to build your own SD Card image, it is easier now as there are detailed instructions on the ROS Wiki to build ROS Groovy on Raspbian ! Using my [tutorial on distributed cross-compilation for the Raspberry Pi](http://nicola.je/2012/10/02/cross-compilation-distributed-compilation-for-the-raspberry-pi/), it should be a piece of cake to build your own image! ;). But still, if you have troubles to build it, of course feel free to ask questions in the comments (not via the contact interface please, so that everyone can benefit  from your problem and its solution)!
 
 Cheers,
 

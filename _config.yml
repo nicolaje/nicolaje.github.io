@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Ce que l'on conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément. (<i>N. Boileau</i>, <u>l'Art Poétique</u>)"
+  - text: "Whatever is well conceived is clearly said, and the words to say it flow with ease. (<i>N. Boileau</i>, <u>l'Art Poétique</u>)"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -119,21 +119,21 @@ syntax-highlight: True
 # Contact #
 ###########
 
-email: "contact@nicola.je"
+email: "nicolaje@nicola.je"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/@JeremyNicola"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/nicolaje"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
